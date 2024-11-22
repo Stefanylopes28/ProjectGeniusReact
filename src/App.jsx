@@ -84,7 +84,7 @@ export default function App() {
       <LampadaImage
         src={
           lampada
-            ? "https://img.freepik.com/vetores-gratis/icone-isolado-de-lampada-de-aladim_98292-2691.jpg"
+            ? "https://w7.pngwing.com/pngs/234/326/png-transparent-gold-colored-genie-lamp-genie-aladdin-lamp-magic-child-krishna-cartoon-religion-smoke-thumbnail.png"
             : "https://w7.pngwing.com/pngs/859/841/png-transparent-lamp-genie-aladdin-funny-transformed-man.png"
         }
         alt="Lâmpada"
